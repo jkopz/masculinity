@@ -1,2 +1,3 @@
-# masculinity
- Use a survey conducted by 538 to find patterns in the way men view masculinity.
+# Masculinity Survey
+
+Find patterns in the way men view masculinity by utilizing the KMeans algorithm on a FiveThirtyEight masculinity survey data.
